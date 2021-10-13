@@ -74,8 +74,7 @@
 # dotenv
 > dotenv를 사용하여 환경 변수를 관리했습니다.
 
-* .env 파일로 각 개인의 DB 등 환경에 맞춰서 관리할 수 있도록 하였습니다.
-* .env 파일로 운영서버, 개발서버, 로컬서버 정보를 따로 관리했습니다.
+* .env 파일로 각 운영서버, 로컬과 개발서버 환경에 맞춰 DB 계정 정보 등 환경변수를 관리했습니다
 
 🔑 dotenv 예시
 ```
@@ -119,4 +118,5 @@ CLIENT_URL=https://thesecondcycle.net
 # Git Action + S3 + CodeDeploy + IAM (CI/CD)
 > Git Action과 AWS의 S3, CodeDeploy를 통해 CI/CD를 구현한다.
 
-🔑 https://velog.io/@rkdden12/AWS-EC2%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-4
+
+🔑 https://velog.io/@rkdden12/AWS-EC2에서-프로젝트-배포하기-4
