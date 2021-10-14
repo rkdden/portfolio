@@ -2,6 +2,8 @@
 
 > 중고거래 플랫폼 프로젝트
 
+🔑 https://github.com/2n-snails/nest-back-v2
+
 # Project Structure
 > Nest.js + Next.js 구조로 개발했습니다. 저는 Nest.js를 사용한 API Server와 AWS를 사용한 인프라를 담당했습니다. 프로젝트에 사용할 기술 목록을 사전에 정의했으며, 약 6개월간 해당 기술들을 학습하며 제가 겪었던 에러와 고민했던 점들을 [기술블로그](https://velog.io/@rkdden12)에 정리 해 두었습니다.
 
