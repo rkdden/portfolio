@@ -120,5 +120,16 @@ CLIENT_URL=https://thesecondcycle.net
 # Git Action + S3 + CodeDeploy + IAM (CI/CD)
 > Git Action과 AWS의 S3, CodeDeploy를 통해 CI/CD를 구현한다.
 
-
 🔑 https://velog.io/@rkdden12/AWS-EC2에서-프로젝트-배포하기-4
+
+# 고민점
+> 프로젝트를 진행하며 고민하였던 점들을 블로그에 정리하였습니다.
+
+* [Nestjs+nginx+ssl](https://velog.io/@rkdden12/Nestjsnginxssl)
+* [AWS EC2에 postgres 데이터 넣기](https://velog.io/@rkdden12/AWS-EC2%EC%97%90-postgres-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%84%A3%EA%B8%B0)
+* [AWS EC2에서 프로젝트 배포하기 - 1,2,3,4](https://velog.io/@rkdden12/AWS-EC2%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1)
+* [typeORM에서 평균(AVG) 구하기](https://velog.io/@rkdden12/nest.js-typeORM%EC%97%90%EC%84%9C-%ED%8F%89%EA%B7%A0-%EA%B5%AC%ED%95%98%EA%B8%B0)
+* [Nest.js 소셜로그인](https://velog.io/@rkdden12/Nest.js-%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8)
+* [typeORM에서 여러개의 테이블 조인](https://velog.io/@rkdden12/typeORM%EC%97%90%EC%84%9C-%EC%97%AC%EB%9F%AC%EA%B0%9C%EC%9D%98-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%A1%B0%EC%9D%B8)
+
+🔑 감사합니다
